@@ -62,8 +62,8 @@
     </li>
     <li>✅ Start Apache and MySQL from XAMPP control panel.</li>
     <li>✅ Run the project in your browser:
-      <br><code>http://localhost/Blood_Bank_System/</code>
-      For Admin Dashboard<br><code>http://localhost/Blood_Bank_System/admin/</code>
+      User :- <br><code>http://localhost/Blood_Bank_System/</code><br>
+      Admin :- <br><code>http://localhost/Blood_Bank_System/admin/</code>
     </li>
     <li>✅ Run the insert query in the SQL file to add blood inventory data after importing the database.</li>
   </ol>
